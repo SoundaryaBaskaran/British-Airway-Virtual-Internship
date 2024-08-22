@@ -16,7 +16,7 @@ Customer review data for Britis Airways was collected from [Skytrax](Skytrax).
 
 Reviews were cleaned for punctuation, spelling, and special characters.
 ###### Exploratory Data Analysis (EDA) revealed the following:
-- Average Overall Rating: The average rating for the reviews is 4.59, indicating a generally positive overall customer sentiment.
+- Average Overall Rating: The average rating for the reviews is 4.58, indicating a generally positive overall customer sentiment.
 - Top 5 Reviewing Countries: UK,USA,Australia,Canada,Germany
 - Highest Rating Country: Dominician Republic,Ecuador,Costa Rica,Japan.
 - Periods of Decreased Ratings:From March 2020 to October 2021, there was a decrease in reviews due to travel restrictions caused by the Covid pandemic. 
