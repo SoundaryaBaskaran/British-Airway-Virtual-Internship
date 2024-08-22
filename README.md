@@ -33,7 +33,15 @@ Following insights were uncovered as they are summed up in the one slide present
 ![Screenshot 2024-08-19 231632](https://github.com/user-attachments/assets/ec313735-9964-4baa-8a80-7a0b8e8d4683)
 
 ### Task 2 - Predicting customer buying behaviour
-Customers are more empowered than ever because they have access to a wealth of information at their fingertips. This is one of the reasons the buying cycle is very different to what it used to be. Today, if you’re hoping that a customer purchases your flights or holidays as they come into the airport, you’ve already lost! Being reactive in this situation is not ideal; airlines must be proactive in order to acquire customers before they embark on their holiday.
+#### Objective:
+
+Predict customer buying behavior for flight bookings.
+#### Methodology:
+
+- Model Training: Two models were trained: Random Forest Classifier and XGBoost Classifier.
+- Model Evaluation: F1-score was used as the primary evaluation metric.
+- Class Imbalance Handling: Oversampling and undersampling techniques (SMOTE-RUS) were employed to address the class imbalance in the dataset.
+- Feature Importance: XGBoost feature importance was analyzed to identify key factors influencing bookings.
 
 This task involves building a high quality predictive to predict the successful bookings using customer bookings data.
 
