@@ -12,6 +12,21 @@ This first task is focused on scraping and collecting customer feedback and revi
 
 Customer review data for Britis Airways was collected from [Skytrax](Skytrax).
 
+#### Data Cleaning & Exploration:
+
+Reviews were cleaned for punctuation, spelling, and special characters.
+###### Exploratory Data Analysis (EDA) revealed the following:
+- Average Overall Rating: The average rating for the reviews is 4.59, indicating a generally positive overall customer sentiment.
+- Top 5 Reviewing Countries: UK,USA,Australia,Canada,Germany
+- Highest Rating Country: Dominician Republic,Ecuador,Costa Rica,Japan.
+- Periods of Decreased Ratings:From March 2020 to October 2021, there was a decrease in reviews due to travel restrictions caused by the Covid pandemic. 
+  
+###### Text Analysis:
+
+- Wordcloud visualization identified the most frequent keywords: flight, seat, service, cabin crew, and good experiences. However, negative sentiments related to delays, problems, and bad experiences are also evident.
+- N-gram analysis revealed positive sentiment towards cabin crew.
+- Vader sentiment analysis indicated 55.5% positive reviews.
+
 
 Following insights were uncovered as they are summed up in the one slide presentation.
 
